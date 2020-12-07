@@ -6,9 +6,13 @@ Elias Ferreira de Faria - [Git Hub](https://github.com/elias31072002), [LinkedIn
 
 # Requisitos
 Python;
+
 Powershell;
+
 Jupyter;
-Navegador( Google, Mozilla...etc.)
+
+Navegador( Google, Mozilla...etc.);
+
 Banco de dados que irá ser utilizado.
 
 # Links necessitados
