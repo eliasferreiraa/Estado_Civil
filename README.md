@@ -16,5 +16,6 @@ Navegador( Google, Mozilla...etc.);
 Banco de dados que irá ser utilizado.
 
 # Links necessitados
-* Download banco de dados:
+* Download banco de dados.
+
 Link: [Banco_de_dados](https://dados.gov.br/dataset/perfil-do-eleitorado-em-cada-eleicao)
